@@ -181,6 +181,32 @@
 #msg-box5-28 .mbr-article {
   color: #ffffff;
 }
+#header3-2e H3 {
+  text-align: center;
+  font-size: 36px;
+}
+#header3-2e P {
+  text-align: center;
+}
+#msg-box4-2d .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-2d .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2d .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2d .mbr-article P {
+  color: #000000;
+}
+#msg-box1-2g .mbr-header .mbr-header__text {
+  color: #fff;
+  text-align: center;
+}
+#msg-box1-2g .mbr-article {
+  color: #fff;
+}
 #contacts1-27 P {
   font-size: 13px;
 }
