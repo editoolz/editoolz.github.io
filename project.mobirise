@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "editaz",
-    "currentPage": "créer-un-site-moderne-et-utile.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 93,
+    "uniqCompNum": 95,
     "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/icone-edi-1-128x234.png",
     "noImageResize": "",
@@ -1527,6 +1527,54 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header3",
+          "_anchor": "header3-2m",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-2l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "MOBIRISE",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "form1",
           "_anchor": "form1-1f",
           "_params": {
@@ -2383,12 +2431,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2e",
-          "title": "DROP-DEAD EASY WEBSITE MAKER",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "text-align": "center",
@@ -2397,7 +2439,13 @@
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "header3-2e",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_inherit": "msg-box5",
@@ -2582,6 +2630,9 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2590,10 +2641,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "count": 3,
-            "showName": true,
-            "showBio": true
+            "showTitle": true
           },
           "header": "WHAT OUR FANTASTIC USERS SAY"
         },
