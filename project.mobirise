@@ -1368,18 +1368,6 @@
           "meta": "By John Smith posted July 30, 2015"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-m",
-          "title": "DROP-DEAD EASY WEBSITE MAKER",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "By John Smith posted July 30, 2015"
-        },
-        {
           "items": [
             {
               "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -1591,9 +1579,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "EDITAZ CRÉER LE DIGITAL",
+          "title": "EDITAZ FAIT LE DIGITAL",
           "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Marketing-digital.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
         },
         {
           "_tags": [
