@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 95,
+    "uniqCompNum": 98,
     "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/icone-edi-1-128x234.png",
     "noImageResize": "",
@@ -32,9 +32,14 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#4c6972"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -45,7 +50,7 @@
           "_params": {
             "color": "#ffffff",
             "hamburgerColor": "#4c6972",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -70,7 +75,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE LE MARKETING DIGITAL DE MON BUSINESS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -95,7 +100,11 @@
           "_styles": {
             "SMALL": {
               "text-align": "center",
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#00a885"
+            },
+            "B": {
+              "font-size": "23px"
             }
           },
           "_tags": [
@@ -121,7 +130,7 @@
           "_params": {
             "showText": true
           },
-          "text": "<br>Regardez la video jusqu'à la fin pour comprendre"
+          "text": "<br>Regardez la video jusqu'à la fin pour comprendre<br><br><br><br><br><b>ÊTES VOUS PRÊT À DEVENIR CHEF D'ENTREPRISE TOUT DE SUITE ???</b>"
         },
         {
           "_tags": [
@@ -129,7 +138,7 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-n",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"Votre-Entreprise-en-moins-de-24h.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">JE VEUX DEVENIR DIRIGANT DE MON PROPRE ENTREPRISE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Votre-Entreprise-en-moins-de-24h.html#content5-q\" data-toolbar=\"-mbrBtnMove\">NON MERCI JE NE VEUX RIEN</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"Votre-Entreprise-en-moins-de-24h.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">JE VEUX ÊTRE DIRIGANT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Votre-Entreprise-en-moins-de-24h.html#content5-q\" data-toolbar=\"-mbrBtnMove\">NON, JE NE VEUX RIEN</a> "
         },
         {
           "_inherit": "msg-box3",
@@ -792,7 +801,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x80112.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -875,9 +884,27 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header3",
+          "_anchor": "header3-2o",
+          "title": "ÊTES VOUS PRÊT À DEVENIR CHEF D'ENTREPRISE TOUT DE SUITE ???",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#00a885"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "buttons1",
-          "_anchor": "buttons1-r",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"Votre-Entreprise-en-moins-de-24h.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">JE VEUX DEVENIR DIRIGANT DE MON PROPRE ENTREPRISE</a> "
+          "_anchor": "buttons1-2n",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"Votre-Entreprise-en-moins-de-24h.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">JE VEUX ÊTRE DIRIGANT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Votre-Entreprise-en-moins-de-24h.html#content5-q\" data-toolbar=\"-mbrBtnMove\">NON, JE NE VEUX RIEN</a> "
         },
         {
           "_tags": [
@@ -944,20 +971,25 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#4c6972"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1g",
+          "_anchor": "menu-26",
           "_params": {
             "color": "#ffffff",
             "hamburgerColor": "#4c6972",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -982,7 +1014,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE LE MARKETING DIGITAL DE MON BUSINESS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -992,15 +1024,7 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header4-1a",
+          "_anchor": "header4-2p",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
@@ -1013,16 +1037,16 @@
             "bgVideoRadio": false,
             "contentAlign": "center",
             "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.9",
+            "overlayColor": "#0e2b30",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "showArrow": true
           },
           "title": "DIGITALISE TON BUSINESS",
-          "text": "Notre équipe a tout ce qu'il vous faut pour multiplier et fidéliser vos clients en passant par une digialisation extreme de votre business",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"Marketing-digital.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span>MARKETING DIGITAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"créer-un-site-moderne-et-utile.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>CRÉER UN SITE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"index.html#slider-1c\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span>VISITE VIRTUELLE</a> "
+          "text": "Maintenant vous avez tous ce qu'il vous faut pour assurer votre digitalisation, attirer plus de clients et les fideliser .",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"Marketing-digital.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>FAIRE UN BON<br>MARKETING&nbsp;DIGITAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>CRÉER MON PROJET<br>DE A à Z AVEC EDITAZ<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"index.html#header2-2l\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>VISITE VIRTUELLE <br>POUR MON SERVICE<br></a>"
         },
         {
           "_styles": {
@@ -1528,17 +1552,17 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header3-2m",
           "title": "DROP-DEAD EASY WEBSITE MAKER",
           "_params": {
             "showMeta": false
           },
-          "meta": "By John Smith posted July 30, 2015",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_inherit": "header1",
@@ -2107,9 +2131,14 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#4c6972"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -2120,7 +2149,7 @@
           "_params": {
             "color": "#ffffff",
             "hamburgerColor": "#4c6972",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -2145,7 +2174,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE LE MARKETING DIGITAL DE MON BUSINESS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -2297,9 +2326,14 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#4c6972"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -2310,7 +2344,7 @@
           "_params": {
             "color": "#ffffff",
             "hamburgerColor": "#4c6972",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
@@ -2335,7 +2369,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE LE MARKETING DIGITAL DE MON BUSINESS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -2590,19 +2624,19 @@
         {
           "items": [
             {
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
               "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "authorBio": "User"
             },
             {
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
               "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "authorBio": "User"
             },
             {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
               "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "authorBio": "User"
             }
           ],
           "_tags": [

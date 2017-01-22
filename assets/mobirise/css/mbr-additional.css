@@ -4,8 +4,14 @@
 #menu-26.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#menu-26 .mbr-navbar__section {
+  background: #ffffff;
+}
 #menu-26 .mbr-navbar__hamburger {
   color: #4c6972;
+}
+#menu-26 .mbr-navbar__items a {
+  font-size: 14px;
 }
 #header3-7 H3 {
   text-align: center;
@@ -14,6 +20,10 @@
 #video2-8 SMALL {
   text-align: center;
   font-size: 18px;
+  color: #00a885;
+}
+#video2-8 B {
+  font-size: 23px;
 }
 #content5-a .mbr-header .mbr-header__text {
   text-align: center;
@@ -84,23 +94,27 @@
 #content5-q .mbr-article P {
   text-align: left;
 }
+#header3-2o H3 {
+  text-align: center;
+  color: #00a885;
+}
 #contacts1-k P {
   font-size: 13px;
 }
-#menu-1g .mbr-brand__name {
+#menu-26 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-1g.mbr-navbar--stuck .mbr-navbar__section {
+#menu-26.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
-#menu-1g .mbr-navbar__hamburger {
+#menu-26 .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-26 .mbr-navbar__hamburger {
   color: #4c6972;
 }
-#header4-1a H1 {
-  color: #ffffff;
-}
-#header4-1a P {
-  color: #ffffff;
+#menu-26 .mbr-navbar__items a {
+  font-size: 14px;
 }
 #msg-box5-11 .mbr-header__text {
   color: #efefef;
@@ -154,8 +168,14 @@
 #menu-1h.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#menu-1h .mbr-navbar__section {
+  background: #ffffff;
+}
 #menu-1h .mbr-navbar__hamburger {
   color: #4c6972;
+}
+#menu-1h .mbr-navbar__items a {
+  font-size: 14px;
 }
 #msg-box3-1s .mbr-header .mbr-header__text {
   text-align: center;
@@ -172,8 +192,14 @@
 #menu-26.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#menu-26 .mbr-navbar__section {
+  background: #ffffff;
+}
 #menu-26 .mbr-navbar__hamburger {
   color: #4c6972;
+}
+#menu-26 .mbr-navbar__items a {
+  font-size: 14px;
 }
 #msg-box5-28 .mbr-header__text {
   color: #ffffff;
