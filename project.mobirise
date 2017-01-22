@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "editaz",
-    "currentPage": "qui-somme-nous.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 106,
+    "uniqCompNum": 108,
     "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/icone-edi-1-128x234.png",
     "noImageResize": "",
@@ -1115,6 +1115,167 @@
             "Theme"
           ],
           "_name": "features1",
+          "_anchor": "features1-2z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#7ac673",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BOOTSTRAP 4",
+          "caption1": "Bootstrap 4 est considéré comme l'un des frameworks les plus fiables et les plus éprouvés et <b>EDITAZ</b> a été équipé pour développer des sites web utilisant ce framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "RESPONSIVE",
+          "caption2": "Un des points forts de Bootstrap 4 est la réactivité et <b>EDITAZ</b> en fait un usage efficace en générant un site web très réactif pour vous.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "B": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
           "_anchor": "features1-2",
           "_params": {
             "paddingTop": 3,
@@ -1291,7 +1452,7 @@
             }
           },
           "_anchor": "header3-4",
-          "title": "<i>Un apercu de nos création de site web qui s'adapte à n'importe quel divice</i>",
+          "title": "<i>UN APERÇUE DE NOS SERVICES</i>",
           "_params": {
             "showMeta": false
           },
@@ -1315,7 +1476,7 @@
                 "showTitle": true,
                 "title": "MARKETING SAUVAGEMENT DIGITAL",
                 "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers..",
+                "text": "Des sites web entièrement réactifs et optimisés pour les mobiles, qui ont l'air étonnant sur tous les appareils et &nbsp;navigateurs et qui s'affiche dans les premier pages des moteurs de recherche.<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a> "
               },
@@ -1326,7 +1487,7 @@
                 "showTitle": true,
                 "title": "VISITE VIRTUELLE",
                 "showText": true,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "<br>Nos V-R est basé sur Bootstrap 4 - le premier cadre mobile le plus puissant. Emparer vous de plus de client sans travail supplémentaire.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a> "
               },
@@ -1337,7 +1498,7 @@
                 "showTitle": true,
                 "title": "CRÉATION&nbsp;",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "<br>Choisissez parmi la grande sélection des derniers créations Editazien - jumbotrons, images de héros, défilement de parallaxe, arrière-plans vidéo, menu hamburger, en-tête collant et plus.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a> "
               }
@@ -1361,11 +1522,69 @@
             }
           },
           "_anchor": "header3-i",
-          "title": "<br><i>Un apercu de nos oeuvres de réalité virtuel pour les recherche&nbsp;</i>",
+          "title": "<br><i>UN APERCUS DE NOS OEUVRE DE RÉALITÉ VIRTUELLE POUR LA &nbsp;RECHERCHE GEO-LOCALISER</i>",
           "_params": {
             "showMeta": false
           },
           "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2y",
+          "articleLayout": true
         },
         {
           "items": [
@@ -1486,17 +1705,17 @@
           },
           "testimonial": [
             {
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p class=\"mbr-reviews__p\">\"Son application vraiment très étonnante qui me fait finir la page html en 3 minutes (qui est généralement prend plus de 1 heure au moins de moi si je l'ai fait à partir de zéro). J'espère avoir la bibliothèque et les plugins très grands pour cette APP remercient encore pour votre application gentille”<br></p>",
               "authorName": "ABANOUB S.",
               "authorBio": "User"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p class=\"mbr-reviews__p\">\"Tout d'abord mains off pour vous les gars pour votre effort et agréable, super outil. Bon travail mobirise équipe. Nous nous attendons à la nouvelle version bientôt avec des fonctionnalités avancées avec une conception bootstrap complète. Grand effort et super expérience d'UI avec le glisser-déposer facile sans constructeur de bootstrap de conception de temps dans le monde actuel de conception de Web.”</p>",
               "authorName": "SUFFIAN A.",
               "authorBio": "User"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p class=\"mbr-reviews__p\">\"À première vue, ressemble à un outil innovateur agréable, j'aime le grand foyer et le temps qui a été donné à la conception sensible, j'aime aussi les dispositifs simples et clairs de glisser-déposer. Donnez-moi plus de contrôle sur les propriétés de l'objet et mal utiliser cet outil pour des projets plus sérieux. Cordialement”<br></p>",
               "authorName": "JHOLLMAN C.",
               "authorBio": "User"
             },
@@ -1580,7 +1799,7 @@
             "showArrow": false
           },
           "title": "EDITAZ FAIT LE DIGITAL",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "text": "EDITAZ vous aide à réduire le temps de développement en vous fournissant un éditeur de site Web flexible avec une interface glisser-déposer.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Marketing-digital.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
         },
         {
@@ -1612,7 +1831,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Prénom et Nom*"
               },
               "email": {
                 "title": "Email",
