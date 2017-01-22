@@ -1051,7 +1051,7 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#efefef",
+              "color": "#28324e",
               "font-size": "36px",
               "text-align": "left"
             },
@@ -1074,7 +1074,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1313,33 +1313,33 @@
                 "image": "images/slide1.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Slide 1",
+                "title": "MARKETING SAUVAGEMENT DIGITAL",
                 "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers..",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a> "
               },
               {
                 "active": true,
                 "image": "images/slide2.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "visite virtuel",
+                "title": "VISITE VIRTUELLE",
                 "showText": true,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a> "
               },
               {
                 "active": false,
                 "image": "images/slide3.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Slide 3",
+                "title": "CRÉATION&nbsp;",
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a> "
               }
             ],
             "fullScreen": true,
@@ -1558,7 +1558,7 @@
             }
           },
           "_anchor": "header3-2m",
-          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "title": "LE BOOTSTRAP 4 EST PLUS PUISSANT ET PLUS RAPIDE REGARDEZ",
           "_params": {
             "showMeta": false
           },
@@ -1591,9 +1591,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "MOBIRISE",
+          "title": "EDITAZ CRÉER LE DIGITAL",
           "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
         },
         {
           "_tags": [
@@ -1642,7 +1642,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT</a>"
         },
         {
           "_tags": [
