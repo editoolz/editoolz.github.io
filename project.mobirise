@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "editaz",
-    "currentPage": "index.html",
+    "currentPage": "qui-somme-nous.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 98,
+    "uniqCompNum": 106,
     "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/icone-edi-1-128x234.png",
     "noImageResize": "",
@@ -36,7 +36,7 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#efefef"
+              "color": "#4c6972"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px"
@@ -75,7 +75,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -801,7 +801,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8018.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -948,7 +948,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>CONTACTS</strong><br>\nEmail: cheikhmalickniang@gmail.com<br>\nPhone: +00221 70 760 43 03<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"#top\" class=\"text-success\">Website </a></li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li>A propos de nous</li><li>tout les droits sont réserves</li><li><br></li></ul>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li><a href=\"qui-somme-nous.html\" class=\"text-success\">A propos de nous</a></li><li>tout les droits sont réserves</li><li><br></li></ul>"
         }
       ]
     },
@@ -1014,7 +1014,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -1674,7 +1674,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>CONTACTS</strong><br>\nEmail: cheikhmalickniang@gmail.com<br>\nPhone: +00221 70 760 43 03<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li>A propos de nous</li><li>tout les droits sont réserves</li><li><br></li></ul>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li><a href=\"qui-somme-nous.html\" class=\"text-success\">A propos de nous</a></li><li>tout les droits sont réserves</li><li><br></li></ul>"
         }
       ]
     },
@@ -2123,7 +2123,7 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#efefef"
+              "color": "#4c6972"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px"
@@ -2162,7 +2162,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -2297,7 +2297,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>CONTACTS</strong><br>\nEmail: cheikhmalickniang@gmail.com<br>\nPhone: +00221 70 760 43 03<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li>A propos de nous</li><li>tout les droits sont réserves</li><li><br></li></ul>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li><a href=\"qui-somme-nous.html\" class=\"text-success\">A propos de nous</a></li><li>tout les droits sont réserves</li><li><br></li></ul>"
         }
       ]
     },
@@ -2318,7 +2318,7 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#efefef"
+              "color": "#4c6972"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px"
@@ -2357,7 +2357,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">FAIRE DU MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -2808,7 +2808,265 @@
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>CONTACTS</strong><br>\nEmail: cheikhmalickniang@gmail.com<br>\nPhone: +00221 70 760 43 03<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li>A propos de nous</li><li>tout les droits sont réserves</li><li><br></li></ul>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li><a href=\"qui-somme-nous.html\" class=\"text-success\">A propos de nous</a></li><li>tout les droits sont réserves</li><li><br></li></ul>"
+        }
+      ]
+    },
+    "qui-somme-nous.html": {
+      "settings": {
+        "title": "QUI SOMME NOUS"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#4c6972"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "13px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2q",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#4c6972",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logomakr-8cw9nm-374x128-2.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Marketing-digital.html\">MARKETING DIGITAL&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"créer-un-site-moderne-et-utile.html\">CRÉE MON SITE</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-k\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2t",
+          "_params": {
+            "outside": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logomakr-8cw9nm-1400x478.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2x",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#7ac673",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "L'AGENCE WEB EDITAZ DEVELOPE UN SYSTEME QUI FACILITE LE PROCESSUS DE CREATION ET DE VALORISATION D'ENTREPRISE &nbsp;EN PASSANT PAR LE DIGITAL.",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Pour aider les centaines de millier d'entrepreneur qui ne connaisse pas le web et ses avantages à le connaitre par des formation suivit par des exercices pratique pour qu'il ai la connaissance du digital mais aussi pour qu'il puisse utiliser des outils qui leur simplifieront la vie et leur donnerons accés à notre marketing digital trés puissant qui réunie le growth haking, le les partenariat, la e-réputation, et la visibilité de leur entreprise&nbsp;</p><p><br></p><p>EDITAZ à pour but de digitaliser le maximum d'entreprise sur tout les entreprise qui sont baser dans les pays en developement</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text P": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#252525"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2u",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "500",
+              "newWindow": false,
+              "active": true,
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "title": "<p>LE CEO ET FONDATEUR DE L'AGENCE WEB EDITAZ</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Cheikh Malick Niang, Un entrepreneur sénégalais qui à constater que .</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-2r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logomakr-8cw9nm-265x90.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: cheikhmalickniang@gmail.com<br>\nPhone: +00221 70 760 43 03<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-success\">Website</a> </li><li><a href=\"Votre-Entreprise-en-moins-de-24h.html\" class=\"text-success\">Devenir Partenaires</a></li><li><a href=\"qui-somme-nous.html\" class=\"text-success\">A propos de nous</a></li><li>tout les droits sont réserves</li><li><br></li></ul>"
         }
       ]
     }
