@@ -36,10 +36,10 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#efefef"
             },
             ".mbr-navbar__items a": {
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_tags": [
@@ -801,7 +801,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8014.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -978,7 +978,7 @@
               "color": "#efefef"
             },
             ".mbr-navbar__items a": {
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_tags": [
@@ -999,7 +999,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logomakr-8cw9nm-374x128-2.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-8cw9nm-3-374x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2135,10 +2135,10 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#efefef"
             },
             ".mbr-navbar__items a": {
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_tags": [
@@ -2330,10 +2330,10 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#efefef"
             },
             ".mbr-navbar__items a": {
-              "font-size": "14px"
+              "font-size": "13px"
             }
           },
           "_tags": [
