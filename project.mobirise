@@ -801,7 +801,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8010.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -975,10 +975,10 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#efefef"
+              "color": "#28324e"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -988,7 +988,7 @@
           "_anchor": "menu-26",
           "_params": {
             "color": "#ffffff",
-            "hamburgerColor": "#efefef",
+            "hamburgerColor": "#28324e",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
