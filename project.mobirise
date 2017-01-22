@@ -975,7 +975,7 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#212121"
             },
             ".mbr-navbar__items a": {
               "font-size": "12px"
@@ -988,7 +988,7 @@
           "_anchor": "menu-26",
           "_params": {
             "color": "#ffffff",
-            "hamburgerColor": "#28324e",
+            "hamburgerColor": "#212121",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -1046,7 +1046,7 @@
           },
           "title": "DIGITALISE TON BUSINESS",
           "text": "Maintenant vous avez tous ce qu'il vous faut pour assurer votre digitalisation, attirer plus de clients et les fideliser .",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"Marketing-digital.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>FAIRE UN BON<br>MARKETING&nbsp;DIGITAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>CRÉER MON PROJET<br>DE A à Z AVEC EDITAZ<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"index.html#header2-2l\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>VISITE VIRTUELLE <br>POUR MON SERVICE<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"Marketing-digital.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>FAIRE UN BON<br>MARKETING&nbsp;DIGITAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"créer-un-site-moderne-et-utile.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>CRÉER MON PROJET<br>DE A à Z AVEC EDITAZ<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"index.html#header2-2l\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px;\"></span><br><br>VISITE VIRTUELLE <br>POUR MON SERVICE<br></a>"
         },
         {
           "_styles": {
@@ -1137,7 +1137,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -1164,8 +1164,8 @@
             }
           },
           "title1": "VOS CLIENTS SON SUR LE NET",
-          "caption1": "Multipliez les opportunité en augementant au maximum votre visibilité,&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "caption1": "Multipliez les opportunité en augementant au maximum votre visibilité, laisser editaz s'occuper de vous et de votre visibilité et image de marque sur le digital et la mise en place des cannal d'acquisition de client sous exploiter",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
