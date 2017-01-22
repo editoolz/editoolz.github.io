@@ -801,7 +801,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x80112.jpg",
+              "src": "@PROJECT_PATH@/assets/images/guaranteedcomvb1-1400x8010.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -885,18 +885,18 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2o",
-          "title": "ÊTES VOUS PRÊT À DEVENIR CHEF D'ENTREPRISE TOUT DE SUITE ???",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "text-align": "center",
               "color": "#00a885"
             }
-          }
+          },
+          "_anchor": "header3-2o",
+          "title": "ÊTES VOUS PRÊT À DEVENIR CHEF D'ENTREPRISE TOUT DE SUITE ???",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_tags": [
@@ -975,7 +975,7 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#4c6972"
+              "color": "#efefef"
             },
             ".mbr-navbar__items a": {
               "font-size": "14px"
@@ -988,7 +988,7 @@
           "_anchor": "menu-26",
           "_params": {
             "color": "#ffffff",
-            "hamburgerColor": "#4c6972",
+            "hamburgerColor": "#efefef",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
